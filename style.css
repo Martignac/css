@@ -1,0 +1,41 @@
+.portrait{
+	width: 620px;
+	height: 712px;
+}
+
+.paysage{
+	width: 620px;
+	height: 365px;
+}
+
+.carre{
+	width: 620px;
+	height: 620px;
+}
+
+.flex-paysage{
+	display: flex;
+	height: 415px;
+}
+
+.flex-enf{
+	width: auto;
+	margin: auto;
+}
+
+.flex-portrait{
+	display: flex;
+	height: 760px;
+}
+
+.flex-carre{
+	display: flex;
+	height: 665px;
+}
+
+#casse-couille{
+	width: 210px;
+	height: 355px;
+}
+
+/*As de Trèfle*/
